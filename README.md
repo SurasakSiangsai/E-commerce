@@ -1,4 +1,4 @@
-# Full Stack E-commerce Website Using React.js, Stripe, Node.js, Redis  MERN Stack eCommerce Project
+# Full Stack E-commerce Website Using React.js, Stripe, Node.js, Redis  MERN Stack E-Commerce Project
 
 -💻User Signup , Login , Forgotpassword  
 
