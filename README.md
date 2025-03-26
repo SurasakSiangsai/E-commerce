@@ -20,6 +20,8 @@
 
 -💻And a lot more...
 
+this project is not complete you can clone and fix it
+
 ## Setup .env file
 
 ```.ENV
