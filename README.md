@@ -8,8 +8,6 @@
 
 -💻Includes a Sales Analytics system.
 
--💻Security follows international standards (OWASP TOP 10 2021).
-
 -💻Admin Dashboard
 
 -💻Seller Dashboard
